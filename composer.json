@@ -35,13 +35,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Hootlex\\Friendships\\": "src/"
+            "Xqersdy\\Friendships\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Hootlex\\Friendships\\FriendshipsServiceProvider"
+                "Xqersdy\\Friendships\\FriendshipsServiceProvider"
             ]
         }
     },
